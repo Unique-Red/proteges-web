@@ -257,7 +257,7 @@ nav {
 
 .action-card {
     position: relative;
-    height: 350px;
+    height: 550px;
     border-radius: 20px;
     overflow: hidden;
     color: var(--text-dark);
@@ -750,7 +750,7 @@ footer {
     }
 
     .action-card {
-        height: 300px;
+        height: 450px;
     }
 
     .team-grid {
@@ -926,7 +926,7 @@ footer {
     }
 
     .action-card {
-        height: 280px;
+        height: 500px;
         border-radius: 15px;
     }
 

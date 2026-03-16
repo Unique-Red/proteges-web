@@ -1,0 +1,28 @@
+# Proteges Nigeria - Robots.txt
+# Allow search engines to crawl all pages
+
+User-agent: *
+Allow: /
+Allow: /index
+Allow: /team
+Allow: /journey
+Allow: /contact
+Allow: /assets/
+
+# Disallow private pages
+Disallow: /admin/
+Disallow: /private/
+
+# Specific rules for Google
+User-agent: Googlebot
+Allow: /
+
+# Specific rules for Bing
+User-agent: Bingbot
+Allow: /
+
+# Crawl delay (in seconds)
+Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://proteges.ng/sitemap.xml

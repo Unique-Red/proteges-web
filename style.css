@@ -152,7 +152,7 @@ nav {
 
 .slide img {
     width: 100%;
-    filter: grayscale(100%);
+    /* filter: grayscale(100%); */
     opacity: 0.6;
 }
 

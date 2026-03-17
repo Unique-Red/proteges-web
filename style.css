@@ -663,7 +663,7 @@ footer {
 /* Tablets & Medium Devices (768px and below) */
 @media (max-width: 768px) {
     .container {
-        padding: 0 15px;
+        padding: 0 25px;
     }
 
     /* Header & Navigation */
@@ -816,7 +816,7 @@ footer {
     }
 
     .section-padding {
-        padding: 60px 0;
+        padding: 60px 25px;
     }
 
     .services-list {
